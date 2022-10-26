@@ -15,7 +15,7 @@ The project is aimed at airfare predictions. It is carried out in several steps 
 3. AirFare_Data_Preprocessing.ipynb - Data transformation and encoding.
 4. AirFare_ML.ipynb - Outlier handling and training a RandomForestRegressor.
 
-| evaluation metrics | Value    | 
+| Evaluation metrics | Value    | 
 | :---:   | :---: |
 | Training Error  |  0.95   |
 | r2-score | 0.81   |
